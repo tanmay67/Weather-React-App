@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background: #000 no-repeat center center/cover;
+  color: aliceblue;
+  height: 100vh;
+}
+
+.form-control {
+  opacity: 0.5;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+}
+
+.nav-link {
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+}
+
+p {
+  font-style: italic;
+}
+
+tbody {
+  font-style: italic;
+}
+
+.card {
+  background-color: #000000;
+}
+
+.navbar {
+  background-color: #000000;
+}
